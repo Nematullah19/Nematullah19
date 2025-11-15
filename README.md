@@ -1,11 +1,11 @@
-# 👨‍💻 Milad Rahimi - Software Engineer & Full-Stack Developer
+# 👨‍💻 Newmatullah Ghulami - Network Engineer
 
 <div align="center">
 
-## 🎓 BSc. Software Engineering | Kabul University, 2025
-### 💻 Full-Stack Developer | Security Enthusiast | Technical Educator
+## 🎓 BSc. Network Engineer | Kabul Polytchnic University, 2025
+### 💻 Network Engineer | Security Enthusiast | Technical Educator
 
-🌍 **Kabul, Afghanistan** | 📧 **eng.miladrahimi93@gmail.com** | 📱 **+93 783 919 922**
+🌍 **Kabul, Afghanistan** | 📧 **nematullah.cis.1377@gmail.com** | 📱 **+93 707103984**
 
 </div>
 
