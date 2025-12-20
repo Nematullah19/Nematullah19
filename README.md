@@ -108,65 +108,12 @@ Kabul Polytechnic University
 **Mustafa Sultani** — Full Stack Web Developer at YRMPT
 📞 +93 77 467 8471  |  ✉️ [mustafasultani388@gmail.com](mailto:mustafasultani388@gmail.com)
 
----
-
 ## 📞 Contact
 
 If you'd like to connect, discuss an opportunity, or request a full CV or project portfolio, email: **[nematullah.cis.1377@gmail.com](mailto:nematullah.cis.1377@gmail.com)** or call **+93 70 710 3984**.
 
----
-
-*This README was generated from the CV and cover letter provided. Tell me if you want a shorter resume-style version, a LinkedIn "About" summary, or a GitHub README variant with project highlights and badges.*
-
-
-Software Engineering graduate with expertise in full-stack web development and a strong foundation in modern programming paradigms. Experienced in building scalable applications using Laravel, React, Spring Boot, and contemporary web technologies. Passionate about secure coding practices, system architecture, and knowledge sharing through technical instruction.
-
----
 
 
 
-## 📈 GitHub Analytics
 
-<div align="center">
 
-![Milad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiladRahimi93&show_icons=true&count_private=true&hide_title=true&theme=algolia)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MiladRahimi93&layout=compact&theme=algolia&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MiladRahimi93&theme=algolia&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Professional Interests
-
-- **Full-Stack Development** - Building end-to-end web solutions
-- **Application Security** - Secure coding practices and penetration testing
-- **System Architecture** - Scalable and maintainable software design
-- **Machine Learning** - NLP and data-driven applications
-- **Technical Education** - Knowledge sharing and mentorship
-
----
-
-## 📞 Contact & Professional Links
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-eng.miladrahimi93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.miladrahimi93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MiladRahimi93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiladRahimi93)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Online-4C8BF5?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
-
-**📱 +93 783 919 922**
-
-</div>
-
----
-
-<div align="center">
-
-### *"Engineering elegant solutions through code and collaboration"*
-
-⭐ **Connect with me on professional platforms**
-
-</div> make this for mustafa khan sultani 
